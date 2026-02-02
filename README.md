@@ -7,7 +7,7 @@ Full-stack developer with a passion for building user-friendly web applications.
 🌱 Currently finishing my Software Engineering certification (Sep 2025 - Feb 2026)  
 🌍 Based in Sunrise, Florida  
 💬 Bilingual: Spanish (Native) | English (Fluent)  
-📫 How to reach me: eliassalazarga@gmail.com
+📫 How to reach me: eliassalazarg@gmail.com
 
 ## 🛠️ Technical Skills
 
@@ -44,7 +44,7 @@ Modern landing page with interactive JavaScript features and responsive design.
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-salazar-garcia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliassalazargarcia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliassalazarg@gmail.com)
 
 ---
 
