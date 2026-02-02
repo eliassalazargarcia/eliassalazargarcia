@@ -7,7 +7,7 @@ Full-stack developer with a passion for building user-friendly web applications.
 🌱 Currently finishing my Software Engineering certification (Sep 2025 - Feb 2026)  
 🌍 Based in Sunrise, Florida  
 💬 Bilingual: Spanish (Native) | English (Fluent)  
-📫 How to reach me: eliassalazargarcia@gmail.com
+📫 How to reach me: eliassalazarga@gmail.com
 
 ## 🛠️ Technical Skills
 
